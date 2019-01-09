@@ -24,7 +24,7 @@ Worked on variable scopes with different definitions (var, let, const)
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/scope.js*
 
-###R1D5
+### R1D5
 Continued work on scope and started work on classes.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/classes.js*
