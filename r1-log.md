@@ -1,10 +1,30 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [@ugly_code]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 05, Saturday, 2019].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Created 'my-cheat-sheets' repository on github. Module import tested.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/JS* 
 
 ### R1D2
+Worked on primitive types of JS and type conversions.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/primitive.js* 
+
+### R1D3
+Worked on functions definitions and behavior. 
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/functions.js*
+
+### R1D4
+Worked on variable scopes with different definitions (var, let, const)
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/scope.js*
+
+###R1D5
+Continued work on scope and started work on classes.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/classes.js*
