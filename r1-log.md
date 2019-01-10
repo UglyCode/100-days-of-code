@@ -28,3 +28,8 @@ Worked on variable scopes with different definitions (var, let, const)
 Continued work on scope and started work on classes.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/classes.js*
+
+### R1D6
+Struggled with "Roman Numeral Converter" from freecodecamp.org and won
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/free-code-camp/basicJS-projects/convert-to-roman.js*
