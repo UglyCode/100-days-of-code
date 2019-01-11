@@ -33,3 +33,8 @@ Continued work on scope and started work on classes.
 Struggled with "Roman Numeral Converter" from freecodecamp.org and won
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/free-code-camp/basicJS-projects/convert-to-roman.js*
+
+### R1D7
+Learned HTML and CSS on freeCodeCamp.org. 
+
+*There is no link here, just believe me, I did all tasks from "Basic HTML and HTML5" and "Basic CSS"*
