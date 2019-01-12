@@ -38,3 +38,8 @@ Struggled with "Roman Numeral Converter" from freecodecamp.org and won
 Learned HTML and CSS on freeCodeCamp.org. 
 
 *There is no link here, just believe me, I did all tasks from "Basic HTML and HTML5" and "Basic CSS"*
+
+### R1D7
+'THIS', protoype and proto, objects, ingeritance, and so on.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/objects.js* 
