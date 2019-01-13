@@ -43,3 +43,8 @@ Learned HTML and CSS on freeCodeCamp.org.
 'THIS', protoype and proto, objects, ingeritance, and so on.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/objects.js* 
+
+### R1D8
+"Advanced working with functions" from http://javascript.info revised, interesting exercises done.
+
+*Link: Closure.js and function-object.js from https://github.com/UglyCode/my-cheat-sheets/tree/master/javascript.info* 
