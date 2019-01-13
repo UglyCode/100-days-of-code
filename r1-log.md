@@ -44,7 +44,7 @@ Learned HTML and CSS on freeCodeCamp.org.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/JS/objects.js* 
 
-### R1D8
+### R1D9
 "Advanced working with functions" from http://javascript.info revised, interesting exercises done.
 
 *Link: Closure.js and function-object.js from https://github.com/UglyCode/my-cheat-sheets/tree/master/javascript.info* 
