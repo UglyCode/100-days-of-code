@@ -48,3 +48,8 @@ Learned HTML and CSS on freeCodeCamp.org.
 "Advanced working with functions" from http://javascript.info revised, interesting exercises done.
 
 *Link: Closure.js and function-object.js from https://github.com/UglyCode/my-cheat-sheets/tree/master/javascript.info* 
+
+### R1D10
+Call, apply, THIS again, setTimeout, setInterval from http://javascript.info revised, all exercises done.
+
+*Link: call-apply-decorators.js and settimeout-setinterval.js from https://github.com/UglyCode/my-cheat-sheets/tree/master/javascript.info*
