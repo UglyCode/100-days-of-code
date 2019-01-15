@@ -53,3 +53,8 @@ Learned HTML and CSS on freeCodeCamp.org.
 Call, apply, THIS again, setTimeout, setInterval from http://javascript.info revised, all exercises done.
 
 *Link: call-apply-decorators.js and settimeout-setinterval.js from https://github.com/UglyCode/my-cheat-sheets/tree/master/javascript.info*
+
+###R1D11
+I had a good practice with classes today.
+
+*https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/classes.js*
