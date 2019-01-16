@@ -58,3 +58,8 @@ Call, apply, THIS again, setTimeout, setInterval from http://javascript.info rev
 I had a good practice with classes today.
 
 *https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/classes.js*
+
+###R1D12
+Continued my practice in HTML\CSS on freecodecamp. Found and started new exiting course.
+
+*There is no link here, just believe me, I've practiced on freecodecamp*
