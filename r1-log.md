@@ -63,3 +63,8 @@ I had a good practice with classes today.
 Continued my practice in HTML\CSS on freecodecamp. Found and started new exiting course.
 
 *There is no link here, just believe me, I've practiced on freecodecamp*
+
+###R1D13
+Continued my practice in HTML\CSS on freecodecamp. Passed though Applied Visual Design chapter.
+
+*There is no link here, just believe me, I've practiced on freecodecamp*
