@@ -68,3 +68,8 @@ Continued my practice in HTML\CSS on freecodecamp. Found and started new exiting
 Continued my practice in HTML\CSS on freecodecamp. Passed though Applied Visual Design chapter.
 
 *There is no link here, just believe me, I've practiced on freecodecamp*
+
+###R1D14
+Dived deep into Promises, thnx Ilia Kantor.
+
+*Link: async.js|html and asyncFetch.js from https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/*
