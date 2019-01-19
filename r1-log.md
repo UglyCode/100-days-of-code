@@ -73,3 +73,8 @@ Continued my practice in HTML\CSS on freecodecamp. Passed though Applied Visual 
 Dived deep into Promises, thnx Ilia Kantor.
 
 *Link: async.js|html and asyncFetch.js from https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/*
+
+###R1D15
+Async\await style learned successfully. Classes and inheritance revised.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/await.js* 
