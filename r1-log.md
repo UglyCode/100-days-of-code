@@ -77,4 +77,9 @@ Dived deep into Promises, thnx Ilia Kantor.
 ###R1D15
 Async\await style learned successfully. Classes and inheritance revised.
 
-*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/await.js* 
+*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/await.js*
+
+###R1D16
+Started a new course "from zero to mastery". Set up my own web server via SHH.
+ 
+*Link petrowitch.com - soon you'll see somth here*
