@@ -83,3 +83,8 @@ Async\await style learned successfully. Classes and inheritance revised.
 Started a new course "from zero to mastery". Set up my own web server via SHH.
  
 *Link petrowitch.com - soon you'll see somth here*
+
+###R1D17
+Worked with SSH, and CSS.
+
+*Link petrowitch.com - soon you'll see somth here*
