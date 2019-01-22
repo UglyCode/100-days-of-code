@@ -88,3 +88,8 @@ Started a new course "from zero to mastery". Set up my own web server via SHH.
 Worked with SSH, and CSS.
 
 *Link petrowitch.com - soon you'll see somth here*
+
+###R1D18
+Worked on "Applied Accessibility" and "Responsive Web Design Principles" at #freeCodeCamp. Also did polindrom task.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/free-code-camp/basicJS-projects/polyndrome.js*
