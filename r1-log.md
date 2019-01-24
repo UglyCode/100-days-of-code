@@ -98,3 +98,9 @@ Worked on "Applied Accessibility" and "Responsive Web Design Principles" at #fre
 Completed all projects from "JavaScript Algorithms and Data Structures".
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/free-code-camp/basicJS-projects/CashChange.js*
+
+
+###R1D20
+Went though optimisation Pert1 at my new course. Did some network optimisation tasks. Cool.
+
+*I did not place any code from course on github*
