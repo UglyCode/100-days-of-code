@@ -104,3 +104,8 @@ Completed all projects from "JavaScript Algorithms and Data Structures".
 Went though optimisation Pert1 at my new course. Did some network optimisation tasks. Cool.
 
 *I did not place any code from course on github*
+
+###R1D21
+Dived deeply into the 'How internet work' - DNS, networks, WWW and so on.
+
+*Just a theoretic day to give hands a breake :)*
