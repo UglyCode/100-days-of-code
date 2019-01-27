@@ -109,3 +109,13 @@ Went though optimisation Pert1 at my new course. Did some network optimisation t
 Dived deeply into the 'How internet work' - DNS, networks, WWW and so on.
 
 *Just a theoretic day to give hands a breake :)*
+
+###R1D22
+Today I created a pure-HTML5 project(little quiz/no CSS and no JS) for practice. 
+
+*Link: https://t.co/sJwUPvzdsp*
+
+##R1D23 
+Worked on CSS files, added some new style-sheets at my github.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/ZTM_CWD_CSS*
