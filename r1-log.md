@@ -119,3 +119,8 @@ Today I created a pure-HTML5 project(little quiz/no CSS and no JS) for practice.
 Worked on CSS files, added some new style-sheets at my github.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/ZTM_CWD_CSS*
+
+###R1D24
+CSS selector is my friends. I love stylesheets 
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/ZTM_CWD_CSS*
