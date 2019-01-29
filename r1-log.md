@@ -124,3 +124,8 @@ Worked on CSS files, added some new style-sheets at my github.
 CSS selector is my friends. I love stylesheets 
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/ZTM_CWD_CSS*
+
+###R1D25
+CSS flexbox and transform. Welcome to advanced CSS.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancedCSS*
