@@ -129,3 +129,7 @@ CSS selector is my friends. I love stylesheets
 CSS flexbox and transform. Welcome to advanced CSS.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancedCSS*
+
+#R1D26
+Did some practice on freecodecamp and robo-friend exercise 
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancedCSS/robot%20friend*
