@@ -54,86 +54,86 @@ Call, apply, THIS again, setTimeout, setInterval from http://javascript.info rev
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/javascript.info*
 
-###R1D11
+### R1D11
 I had a good practice with classes today.
 
 *https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/classes.js*
 
-###R1D12
+### R1D12
 Continued my practice in HTML\CSS on freecodecamp. Found and started new exiting course.
 
 *There is no link here, just believe me, I've practiced on freecodecamp*
 
-###R1D13
+### R1D13
 Continued my practice in HTML\CSS on freecodecamp. Passed though Applied Visual Design chapter.
 
 *There is no link here, just believe me, I've practiced on freecodecamp*
 
-###R1D14
+### R1D14
 Dived deep into Promises, thnx Ilia Kantor.
 
 *Link: async.js|html and asyncFetch.js from https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/*
 
-###R1D15
+### R1D15
 Async\await style learned successfully. Classes and inheritance revised.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/javascript.info/await.js*
 
-###R1D16
+### R1D16
 Started a new course "from zero to mastery". Set up my own web server via SHH.
  
 *Link petrowitch.com - soon you'll see somth here*
 
-###R1D17
+### R1D17
 Worked with SSH, and CSS.
 
 *Link petrowitch.com - soon you'll see somth here*
 
-###R1D18
+### R1D18
 Worked on "Applied Accessibility" and "Responsive Web Design Principles" at #freeCodeCamp. Also did polindrom task.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/free-code-camp/basicJS-projects/polyndrome.js*
 
-###R1D19
+### R1D19
 Completed all projects from "JavaScript Algorithms and Data Structures".
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/blob/master/free-code-camp/basicJS-projects/CashChange.js*
 
 
-###R1D20
+### R1D20
 Went though optimisation Pert1 at my new course. Did some network optimisation tasks. Cool.
 
 *I did not place any code from course on github*
 
-###R1D21
+### R1D21
 Dived deeply into the 'How internet work' - DNS, networks, WWW and so on.
 
 *Just a theoretic day to give hands a breake :)*
 
-###R1D22
+### R1D22
 Today I created a pure-HTML5 project(little quiz/no CSS and no JS) for practice. 
 
 *Link: https://t.co/sJwUPvzdsp*
 
-##R1D23 
+### R1D23 
 Worked on CSS files, added some new style-sheets at my github.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/ZTM_CWD_CSS*
 
-###R1D24
+###  R1D24
 CSS selector is my friends. I love stylesheets 
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/ZTM_CWD_CSS*
 
-###R1D25
+###  R1D25
 CSS flexbox and transform. Welcome to advanced CSS.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancedCSS*
 
-#R1D26
+### R1D26
 Did some practice on freecodecamp and robo-friend exercise 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancedCSS/robot%20friend*
 
-#R1D27
+### R1D27
 Bootstrap topic passed, startup landing page created.
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/startup-landing-page*
