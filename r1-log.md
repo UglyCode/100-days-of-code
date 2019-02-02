@@ -139,3 +139,8 @@ Did some practice on freecodecamp and robo-friend exercise
 Bootstrap topic passed, startup landing page created.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/startup-landing-page*
+
+### R1D28
+Went though CSS grid topic and created my fir landing withh flexbox and grid.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/project-start*
