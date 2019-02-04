@@ -149,3 +149,8 @@ Went though CSS grid topic and created my fir landing with flexbox and grid.
 I finally reached a JS section of the course, which is more familiar for me. Did some exercises.
 
 *There is no link here. I did all in console :)*
+
+###R1D30
+TODO-list exercise compleated.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/DOM*
