@@ -154,3 +154,9 @@ I finally reached a JS section of the course, which is more familiar for me. Did
 TODO-list exercise compleated.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/DOM*
+
+###R1D31
+Gradient selection page task completed.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/Gradient*
+
