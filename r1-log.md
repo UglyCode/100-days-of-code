@@ -160,3 +160,8 @@ Gradient selection page task completed.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/Gradient*
 
+
+###R1D32
+ES6 features revised.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/ES6*
