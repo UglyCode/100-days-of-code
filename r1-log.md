@@ -165,3 +165,8 @@ Gradient selection page task completed.
 ES6 features revised.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/ES6*
+
+###R1D33
+Advanced JS section finished. Problem solving task done.
+
+*link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancesJS_problem_solving*
