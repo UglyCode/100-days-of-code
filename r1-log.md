@@ -170,3 +170,8 @@ ES6 features revised.
 Advanced JS section finished. Problem solving task done.
 
 *link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancesJS_problem_solving*
+
+###R1D34
+Another two tasks from problem solving part finished.
+
+*link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancesJS_problem_solving*
