@@ -175,3 +175,8 @@ Advanced JS section finished. Problem solving task done.
 Another two tasks from problem solving part finished.
 
 *link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancesJS_problem_solving*
+
+###R1D35
+Study hard on gitHub collaboration.
+
+*Link: https://github.com/UglyCode/start-here-guidelines*
