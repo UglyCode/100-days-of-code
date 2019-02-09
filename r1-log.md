@@ -150,33 +150,33 @@ I finally reached a JS section of the course, which is more familiar for me. Did
 
 *There is no link here. I did all in console :)*
 
-###R1D30
-TODO-list exercise compleated.
+### R1D30
+TODO-list exercise completed.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/DOM*
 
-###R1D31
+### R1D31
 Gradient selection page task completed.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/Gradient*
 
 
-###R1D32
+### R1D32
 ES6 features revised.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/ES6*
 
-###R1D33
+### R1D33
 Advanced JS section finished. Problem solving task done.
 
 *link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancesJS_problem_solving*
 
-###R1D34
+### R1D34
 Another two tasks from problem solving part finished.
 
 *link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/AdvancesJS_problem_solving*
 
-###R1D35
+### R1D35
 Study hard on gitHub collaboration.
 
 *Link: https://github.com/UglyCode/start-here-guidelines*
