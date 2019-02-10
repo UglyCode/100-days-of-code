@@ -180,3 +180,8 @@ Another two tasks from problem solving part finished.
 Study hard on gitHub collaboration.
 
 *Link: https://github.com/UglyCode/start-here-guidelines*
+
+### R1D36
+I met React for the first time today. It's cool.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/React/*
