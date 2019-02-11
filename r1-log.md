@@ -185,3 +185,8 @@ Study hard on gitHub collaboration.
 I met React for the first time today. It's cool.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/React/*
+
+### R1D36 
+Created my first React app. That was cool and simple.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/React/robofriends*
