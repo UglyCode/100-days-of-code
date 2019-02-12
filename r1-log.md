@@ -190,3 +190,8 @@ I met React for the first time today. It's cool.
 Created my first React app. That was cool and simple.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/React/robofriends*
+
+### R1D38
+Finished working on my first React app. Also finished React section at the CWD2019 course
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/React/robofriends*
