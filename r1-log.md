@@ -199,3 +199,8 @@ Finished working on my first React app. Also finished React section at the CWD20
 Promises and Async functions revised.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/Promises* 
+
+### R1D40
+Finally reached to Backend part of the course trough API section
+
+*nope*
