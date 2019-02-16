@@ -204,3 +204,8 @@ Promises and Async functions revised.
 Finally reached to Backend part of the course trough API section
 
 *nope*
+
+### R1D41-42
+Worked hard on my new React project and finnaly finished it... for now.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/React/apiapp*
