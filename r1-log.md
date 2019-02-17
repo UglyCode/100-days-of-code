@@ -209,3 +209,8 @@ Finally reached to Backend part of the course trough API section
 Worked hard on my new React project and finnaly finished it... for now.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/React/apiapp*
+
+### R1D43 
+Get on well with github-pages and published robo-stars-war at github.io.
+
+*Link https://uglycode.github.io/robo-stars-war/*
