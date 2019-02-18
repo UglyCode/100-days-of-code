@@ -214,3 +214,8 @@ Worked hard on my new React project and finnaly finished it... for now.
 Get on well with github-pages and published robo-stars-war at github.io.
 
 *Link https://uglycode.github.io/robo-stars-war/*
+
+### R1D44 
+Framework of new face-recognition app created.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/face-recon*
