@@ -219,3 +219,8 @@ Get on well with github-pages and published robo-stars-war at github.io.
 Framework of new face-recognition app created.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/face-recon*
+
+### R1D45
+Added clarifai API usage to face-recognition app
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/face-recon*
