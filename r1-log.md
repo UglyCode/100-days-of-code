@@ -229,3 +229,8 @@ Added clarifai API usage to face-recognition app
 Struggled with face recognition App.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/face-recon*
+
+### R1D45
+Finished front-end part of face-recognition app.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/face-recon*
