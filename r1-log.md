@@ -234,3 +234,8 @@ Struggled with face recognition App.
 Finished front-end part of face-recognition app.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/face-recon*
+
+### R1D48
+Started Back-end section, created simple server on Express
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/NodeJS*
