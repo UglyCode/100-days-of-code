@@ -244,3 +244,8 @@ Started Back-end section, created simple server on Express
 Problem-solving days.
 
 *Link https://github.com/UglyCode/my-cheat-sheets/tree/master/cj2019*
+
+### R1D51
+Face recognition app back-end (API) started today. Strore user pass topic completed.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/fece-recon-api*
