@@ -249,3 +249,8 @@ Problem-solving days.
 Face recognition app back-end (API) started today. Strore user pass topic completed.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/fece-recon-api*
+
+### R1D52
+Finished with back-end Express section of the course by greating face-recon app API server.
+
+*Link:https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/fece-recon-api* 
