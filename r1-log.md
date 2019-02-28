@@ -259,3 +259,8 @@ Finished with back-end Express section of the course by greating face-recon app 
 Database section startted. Wellcome to PostgreSQL.
 
 *no link here, test database is local*
+
+### R1D54 
+Database section finished. Also I had some practice with SQL queries at khanacademy.org
+
+*see my profile on https://www.khanacademy.org/profile/kaid_1006449766382434532996749/*
