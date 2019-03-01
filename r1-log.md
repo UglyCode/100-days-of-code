@@ -243,7 +243,7 @@ Started Back-end section, created simple server on Express
 ###R1D49-50
 Problem-solving days.
 
-*Link https://github.com/UglyCode/my-cheat-sheets/tree/master/cj2019*
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/cj2019*
 
 ### R1D51
 Face recognition app back-end (API) started today. Strore user pass topic completed.
@@ -253,7 +253,7 @@ Face recognition app back-end (API) started today. Strore user pass topic comple
 ### R1D52
 Finished with back-end Express section of the course by greating face-recon app API server.
 
-*Link:https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/fece-recon-api* 
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/fece-recon-api* 
 
 ### R1D53
 Database section startted. Wellcome to PostgreSQL.
@@ -264,3 +264,8 @@ Database section startted. Wellcome to PostgreSQL.
 Database section finished. Also I had some practice with SQL queries at khanacademy.org
 
 *see my profile on https://www.khanacademy.org/profile/kaid_1006449766382434532996749/*
+
+### R1D55
+Finaly, I have smth to show. I've added database connections on my backend for face-recognition app
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/fece-recon-api* 
