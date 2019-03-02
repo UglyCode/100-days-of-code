@@ -269,3 +269,8 @@ Database section finished. Also I had some practice with SQL queries at khanacad
 Finaly, I have smth to show. I've added database connections on my backend for face-recognition app
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/fece-recon-api* 
+
+### R1D56
+Did some refactoring and code review in face-recon project.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/fece-recon-api*
