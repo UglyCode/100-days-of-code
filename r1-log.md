@@ -274,3 +274,8 @@ Finaly, I have smth to show. I've added database connections on my backend for f
 Did some refactoring and code review in face-recon project.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_CWD/fece-recon-api*
+
+### R1D57
+CWD2019 finished!!!! Yay!
+
+*Link: *
