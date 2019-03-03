@@ -278,4 +278,4 @@ Did some refactoring and code review in face-recon project.
 ### R1D57
 CWD2019 finished!!!! Yay!
 
-*Link: *
+*Link: https://uglycode.github.io/face-recon/ and https://face-recon-frontend.herokuapp.com/*
