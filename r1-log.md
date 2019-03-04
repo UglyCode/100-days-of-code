@@ -279,3 +279,9 @@ Did some refactoring and code review in face-recon project.
 CWD2019 finished!!!! Yay!
 
 *Link: https://uglycode.github.io/face-recon/ and https://face-recon-frontend.herokuapp.com/*
+
+
+###R1D58
+Came to junior to senior course, did some optimization.
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/Optimization_1.2*
