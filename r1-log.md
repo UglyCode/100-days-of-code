@@ -281,7 +281,12 @@ CWD2019 finished!!!! Yay!
 *Link: https://uglycode.github.io/face-recon/ and https://face-recon-frontend.herokuapp.com/*
 
 
-###R1D58
+### R1D58
 Came to junior to senior course, did some optimization.
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/Optimization_1.2*
+
+### R1D59
+Learned brand new topic for me - state managment with redux.
+
+*Link: https://github.com/UglyCode/robo-stars-war*
