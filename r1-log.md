@@ -290,3 +290,8 @@ Came to junior to senior course, did some optimization.
 Learned brand new topic for me - state managment with redux.
 
 *Link: https://github.com/UglyCode/robo-stars-war*
+
+### R1D60
+PSQL query syntax knowledge improoved on khanacademy.
+
+*Link: nothing here*
