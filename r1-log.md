@@ -296,7 +296,7 @@ PSQL query syntax knowledge improoved on khanacademy.
 
 *Link: nothing here*
 
-### R1D60
+### R1D61
 Struggled with async reducs actions!
 
 *Link: Link: https://github.com/UglyCode/robo-stars-war*
