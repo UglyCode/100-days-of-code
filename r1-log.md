@@ -295,3 +295,8 @@ Learned brand new topic for me - state managment with redux.
 PSQL query syntax knowledge improoved on khanacademy.
 
 *Link: nothing here*
+
+### R1D60
+Struggled with async reducs actions!
+
+*Link: Link: https://github.com/UglyCode/robo-stars-war*
