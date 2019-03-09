@@ -300,3 +300,13 @@ PSQL query syntax knowledge improoved on khanacademy.
 Struggled with async reducs actions!
 
 *Link: Link: https://github.com/UglyCode/robo-stars-war*
+
+### R1D62 
+Have no time for codding, so I've just read a CS-topic about graphs
+
+*nopeee*
+
+### R1D63
+Async actioins on Redux.. oh
+
+*Link: Link: https://github.com/UglyCode/robo-stars-war*
