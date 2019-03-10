@@ -310,3 +310,8 @@ Have no time for codding, so I've just read a CS-topic about graphs
 Async actioins on Redux.. oh
 
 *Link: Link: https://github.com/UglyCode/robo-stars-war*
+
+### R1D64 
+SOLVED! Async action chaining with Redux
+
+*Link: Link: https://github.com/UglyCode/robo-stars-war*
