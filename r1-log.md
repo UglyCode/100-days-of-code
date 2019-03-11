@@ -315,3 +315,8 @@ Async actioins on Redux.. oh
 SOLVED! Async action chaining with Redux
 
 *Link: Link: https://github.com/UglyCode/robo-stars-war*
+
+### R1D65 
+React.lazy and PWA
+
+*Link: Link: https://github.com/UglyCode/robo-stars-war*
