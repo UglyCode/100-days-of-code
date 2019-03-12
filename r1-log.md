@@ -320,3 +320,8 @@ SOLVED! Async action chaining with Redux
 React.lazy and PWA
 
 *Link: Link: https://github.com/UglyCode/robo-stars-war*
+
+### R1D66
+testing, testing, testing. Jest!
+
+*Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/Tests*
