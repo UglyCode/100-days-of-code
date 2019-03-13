@@ -319,9 +319,14 @@ SOLVED! Async action chaining with Redux
 ### R1D65 
 React.lazy and PWA
 
-*Link: Link: https://github.com/UglyCode/robo-stars-war*
+*Link: https://github.com/UglyCode/robo-stars-war*
 
 ### R1D66
 testing, testing, testing. Jest!
 
 *Link: https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/Tests*
+
+### R1D67
+Test section ended, wrote some test for React component.
+
+*Link: https://github.com/UglyCode/robo-stars-war* 
