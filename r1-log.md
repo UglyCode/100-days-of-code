@@ -330,3 +330,8 @@ testing, testing, testing. Jest!
 Test section ended, wrote some test for React component.
 
 *Link: https://github.com/UglyCode/robo-stars-war* 
+
+### R1D68
+Typescript!!!!
+
+*https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/TypeScript*
