@@ -335,3 +335,14 @@ Test section ended, wrote some test for React component.
 Typescript!!!!
 
 *https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/TypeScript*
+
+### R1D69-70
+SRR VS CSR, Next JS.
+
+*https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/SSR/next_ssr*
+
+
+### R1D71
+There is not enough SECURITY anyway!
+
+*https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/security-client-exercise*
