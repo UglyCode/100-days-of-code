@@ -350,4 +350,4 @@ There is not enough SECURITY anyway!
 ### R1D72
 Started hypersnab project
 
-*privat repo*
+*private repo*
