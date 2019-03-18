@@ -346,3 +346,8 @@ SRR VS CSR, Next JS.
 There is not enough SECURITY anyway!
 
 *https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/security-client-exercise*
+
+### R1D72
+Started hypersnab project
+
+*privat repo*
