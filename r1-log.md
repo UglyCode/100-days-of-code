@@ -351,3 +351,8 @@ There is not enough SECURITY anyway!
 Started hypersnab project
 
 *private repo*
+
+### R1D73
+Created components structure + code analyses section
+
+*private repo*
