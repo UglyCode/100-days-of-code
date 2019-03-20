@@ -356,3 +356,8 @@ Started hypersnab project
 Created components structure + code analyses section
 
 *private repo*
+
+### R1D74
+Docker topic started and continued to work on "hypersnab" project
+
+*private repo*
