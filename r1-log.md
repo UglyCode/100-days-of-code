@@ -361,3 +361,8 @@ Created components structure + code analyses section
 Docker topic started and continued to work on "hypersnab" project
 
 *private repo*
+
+### R1D75
+Continued to working on the docker section. Created docker with node.js 4.8.2 for google kick start
+
+*https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/Docker*
