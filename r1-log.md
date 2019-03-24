@@ -374,3 +374,6 @@ It is Computer science day!
 Solved Even Digits problrm from google kick start 2018.
 
 *https://github.com/UglyCode/my-cheat-sheets/blob/master/Udemy/ZTM_JTS/Docker/test.js*
+
+### R1D78
+Google kick start round A one problem solved.
