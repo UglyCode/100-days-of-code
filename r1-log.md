@@ -377,3 +377,5 @@ Solved Even Digits problrm from google kick start 2018.
 
 ### R1D78
 Google kick start round A one problem solved.
+
+*no u*
