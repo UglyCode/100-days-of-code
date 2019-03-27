@@ -384,3 +384,13 @@ Google kick start round A one problem solved.
 Docker-compose
 
 *Link: https://github.com/UglyCode/face-recon-api/blob/master/docker-compose.yml*
+
+### R1D80
+Docker finished, SSL-connection between containers with knex solved.
+
+*Link: https://github.com/UglyCode/face-recon-api*
+
+### R1D81
+REDIS!
+
+*nope - online practice at try.redis.io*
