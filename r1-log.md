@@ -394,3 +394,8 @@ Docker finished, SSL-connection between containers with knex solved.
 REDIS!
 
 *nope - online practice at try.redis.io*
+
+### R1D82
+JWT section started, Rect components revised.
+
+*https://github.com/UglyCode/face-recon*
