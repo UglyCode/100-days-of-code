@@ -399,3 +399,8 @@ REDIS!
 JWT section started, Rect components revised.
 
 *https://github.com/UglyCode/face-recon*
+
+### R1D83-84
+
+JWT!
+*https://github.com/UglyCode/face-recon && https://github.com/UglyCode/face-recon-api*
