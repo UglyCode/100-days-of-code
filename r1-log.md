@@ -401,6 +401,12 @@ JWT section started, Rect components revised.
 *https://github.com/UglyCode/face-recon*
 
 ### R1D83-84
-
 JWT!
+
+*https://github.com/UglyCode/face-recon && https://github.com/UglyCode/face-recon-api*
+
+### R1D85
+
+JWT & Sessions topic completed 
+
 *https://github.com/UglyCode/face-recon && https://github.com/UglyCode/face-recon-api*
