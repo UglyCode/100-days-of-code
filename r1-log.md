@@ -410,3 +410,9 @@ JWT!
 JWT & Sessions topic completed 
 
 *https://github.com/UglyCode/face-recon && https://github.com/UglyCode/face-recon-api*
+
+### R1D86
+
+AWS-lambda with serverless framework
+
+*https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/AWS/sls*
