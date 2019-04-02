@@ -416,3 +416,9 @@ JWT & Sessions topic completed
 AWS-lambda with serverless framework
 
 *https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/AWS/sls*
+
+### R1D87
+
+Performance article 3 passed, bug fixed at face-recon front.
+
+*https://github.com/UglyCode/face-recon*
