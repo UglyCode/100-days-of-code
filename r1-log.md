@@ -422,3 +422,9 @@ AWS-lambda with serverless framework
 Performance article 3 passed, bug fixed at face-recon front.
 
 *https://github.com/UglyCode/face-recon*
+
+### R1D88
+
+ZTM Junior to senior completed! yeeep... Starting practice now.
+
+*NO LINKS JUST CONGRATS ME*
