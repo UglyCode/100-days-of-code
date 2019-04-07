@@ -428,3 +428,9 @@ Performance article 3 passed, bug fixed at face-recon front.
 ZTM Junior to senior completed! yeeep... Starting practice now.
 
 *NO LINKS JUST CONGRATS ME*
+
+### R1D89-92
+
+Worked on hypersnab project.
+
+*https://github.com/UglyCode/hypersnab*
