@@ -434,3 +434,10 @@ ZTM Junior to senior completed! yeeep... Starting practice now.
 Worked on hypersnab project.
 
 *https://github.com/UglyCode/hypersnab*
+
+
+### R1D93
+
+Worked on hypersnab project. Finished with styling and compontets structure.
+
+*https://github.com/UglyCode/hypersnab*
