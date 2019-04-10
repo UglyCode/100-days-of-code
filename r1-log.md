@@ -406,38 +406,37 @@ JWT!
 *https://github.com/UglyCode/face-recon && https://github.com/UglyCode/face-recon-api*
 
 ### R1D85
-
 JWT & Sessions topic completed 
 
 *https://github.com/UglyCode/face-recon && https://github.com/UglyCode/face-recon-api*
 
 ### R1D86
-
 AWS-lambda with serverless framework
 
 *https://github.com/UglyCode/my-cheat-sheets/tree/master/Udemy/ZTM_JTS/AWS/sls*
 
 ### R1D87
-
 Performance article 3 passed, bug fixed at face-recon front.
 
 *https://github.com/UglyCode/face-recon*
 
 ### R1D88
-
 ZTM Junior to senior completed! yeeep... Starting practice now.
 
 *NO LINKS JUST CONGRATS ME*
 
 ### R1D89-92
-
 Worked on hypersnab project.
 
 *https://github.com/UglyCode/hypersnab*
 
 
 ### R1D93
-
 Worked on hypersnab project. Finished with styling and compontets structure.
+
+*https://github.com/UglyCode/hypersnab*
+
+### R1D94
+Created navigation sticky menu with react. Reached acceptable design.
 
 *https://github.com/UglyCode/hypersnab*
