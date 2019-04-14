@@ -449,5 +449,12 @@ Set up Backen-api for my new project
 ### R1D96
 Dropdown && profile
 
+*https://github.com/UglyCode/hypersnab*
+
+
+### R1D97-98
+Backend recognition by INN
+
 *https://github.com/UglyCode/hypersnab-api*
+
 
