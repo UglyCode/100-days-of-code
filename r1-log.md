@@ -457,4 +457,7 @@ Backend recognition by INN
 
 *https://github.com/UglyCode/hypersnab-api*
 
+### R1D99
+Profile page aded with autofill
 
+*https://github.com/UglyCode/hypersnab*
