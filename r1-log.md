@@ -461,3 +461,8 @@ Backend recognition by INN
 Profile page aded with autofill
 
 *https://github.com/UglyCode/hypersnab*
+
+### R1D100 !!!!
+Challenge complited. See r2log for next notes. Today I created React.Components State diagram to stay clear at what I'm doing.
+
+*https://github.com/UglyCode/hypersnab*
