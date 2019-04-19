@@ -1,9 +1,10 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the 2nd round of #100DaysOfCode Challenge
 
 ## Contents
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](r2-log.md)
+* [Previous log from round 1](r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
