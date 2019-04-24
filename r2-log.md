@@ -15,3 +15,8 @@ JWT auth
 React hooks
 
 *https://github.com/UglyCode/hypersnab*
+
+###
+Auth - planing and engineering
+
+*https://github.com/UglyCode/hypersnab-api*
